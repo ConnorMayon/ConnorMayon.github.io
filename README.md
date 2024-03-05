@@ -1,2 +1,1 @@
-# ConnorMayon.github.io
-CS413 Virtual Worlds Assignments
+# Connor-Mayon.github.io
